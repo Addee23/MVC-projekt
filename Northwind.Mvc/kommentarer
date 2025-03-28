@@ -1,0 +1,4 @@
+Varje kategori har en knapp som leder till en detaljerad vy för den valda kategorin.
+När man klickar på en kategori visas detaljer om kategorin och alla produkter i den kategorin. Produkterna visas i cards med namn, pris och lagerstatus.
+Jag tog bort Authorize-attributet för att förenkla användartillgången och gjorde sidan tillgänglig för alla.
+Jag har också säkerställt att routing fungerar korrekt så att varje kategori leder till rätt sida och visa relevant information om den kategorin.
